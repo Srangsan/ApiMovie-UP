@@ -30,5 +30,3 @@ server.route({
     path: '/',
     handler: function (request, reply) {reply('Hello, world!'); }
 });
-
-Big
